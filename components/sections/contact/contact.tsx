@@ -193,7 +193,7 @@ export function Contact() {
 									<h4 className="text-lg font-medium text-primary mb-1">Email</h4>
 									<p className="text-secondary">
 										<a href="mailto:polojuanilkumar2@gmail.com" className="hover:underline">
-											polojuanilkumar2@gmail.com
+											polojuanilkumar25@gmail.com
 										</a>
 									</p>
 								</div>
